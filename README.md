@@ -1,2 +1,7 @@
-# demo-odontologia-juan-b-justo
-Demo web para Odontología Juan B Justo — diseñada por eterlab.
+# Odontología Juan B Justo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
